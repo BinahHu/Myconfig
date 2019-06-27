@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/binah/blog/source/_posts/hexo-test'
+let g:netrw_dirhist_2='/Users/binah/blog/source/_posts/hexo-learning-notes'
+let g:netrw_dirhist_3='/Users/binah/blog/source/_posts/CV经典模型学习笔记'
+let g:netrw_dirhist_4='/Users/binah/SoftWare/FISM/model'
+let g:netrw_dirhist_5='/Users/binah/StudyFiles/出国/CMU/ADE-FewShot/.git'
