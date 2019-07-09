@@ -27,4 +27,4 @@ make
 cp tmux $HOME/.local/bin
 cd ..
 
-source .bash_profile
+source .bashrc
