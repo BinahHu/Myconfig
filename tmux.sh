@@ -24,5 +24,4 @@ make
 cp tmux $HOME/.local/bin
 cd ..
 
-export $PATH="$HOME/.local/bin:$PATH"
-source .bashrc
+source .bash_profile

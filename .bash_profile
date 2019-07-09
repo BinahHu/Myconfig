@@ -1,5 +1,6 @@
 export PATH=/opt/local/bin:$PATH
 export PATH=/opt/local/sbin:$PATH
+export PATH=$HOME/.local/bin:$PATH
 alias tmux="TERM=screen-256color-bce tmux"
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
