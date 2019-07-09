@@ -3,8 +3,11 @@ wget https://github.com/libevent/libevent/releases/download/release-2.1.10-stabl
 wget http://ftp.gnu.org/gnu/ncurses/ncurses-6.1.tar.gz
 
 tar -xvf tmux-2.9a.tar.gz
+rm tmux-2.9a.tar.gz
 tar -xvf libevent-2.1.10-stable.tar.gz 
+rm libevent-2.1.10-stable.tar.gz 
 tar -xvf ncurses-6.1.tar.gz
+rm ncurses-6.1.tar.gz
 
 cd libevent-2.1.10-stable
 ./configure --prefix=$HOME/.local --disable-shared
